@@ -34,13 +34,13 @@ function Main() {
                         </button>
                         </div>
                     </div>
-                    <div className='col-4 bg-light'>
+                    <div className='col-4'>
                         <div className='row'>
                             <div className='col-6'>
-                                <Login/>  
+                                <Login/>
                             </div>
                             <div className='col-6'>
-                                <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAxSCjtfBCnKvNi7UOi8LbDIKBcXlTFgMGLmJcVapa7Q1ok6ojiXjRoxMWWWxwiLnLTPo&usqp=CAU" height='auto' width='100%' className='dog'></img>
+                                    <img src="https://static.vecteezy.com/system/resources/thumbnails/009/551/676/small/shy-dog-logo-illustration-depicting-shy-dog-suitable-for-pet-company-free-vector.jpg"/>
                             </div>
                         </div>
                     </div>

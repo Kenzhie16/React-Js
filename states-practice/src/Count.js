@@ -29,9 +29,9 @@ function Count() {
           display: "flex",
           gap: "50px",
           justifyContent: "center",
-          padding: "34px",
+          padding: "33.5px",
           backgroundColor: "lightgray",
-          color: "crimson",
+          color: "green",
           width: 'auto',
         }}
       >
