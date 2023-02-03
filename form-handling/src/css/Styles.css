@@ -1,0 +1,13 @@
+body {
+    background-image: url(https://cdn.shopify.com/s/files/1/2312/2697/products/invoker_frame2.png?v=1626225971);
+
+    background-repeat: no-repeat;
+    background-position: 90% 10%;
+    background-size: contain;
+
+}
+form {
+    color:darkorchid;
+    backdrop-filter: blur(10px);
+    
+}

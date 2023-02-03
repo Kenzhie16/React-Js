@@ -3,4 +3,9 @@
   margin: 0 auto;
   padding: 2rem;
   text-align: center;
+  background-color: rgba(252, 1, 51, 0);
+  background-image: url(./assets/ringgogwapo.png);
+  background-size: cover;
+  background-position: center;
+  min-height: 500px;
 }
